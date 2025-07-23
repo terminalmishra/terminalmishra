@@ -1,62 +1,80 @@
-### 👋 Hi, I'm Chandan Mishra aka `terminalmishra`
+<div align="center">
+  
+  ![render](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=4,20&text=Terminal%20Mishra&reversal=true&textBg=false&fontColor=f7f5f5&fontAlign=50&fontAlignY=48)
+</div>
 
-🔐 Cybersecurity & Networking Enthusiast | Red Team Explorer | AWS Cloud Trainee  
-🎓 Final-year B.Tech (Information Technology) @ LNCT, Bhopal  
-🧠 Always curious about breaking, testing, and securing networks — red team style.
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me
+  </h1>
+</div>
 
----
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Red Teaming | Cybersecurity | AWS Cloud | Networking | B.Tech IT Student
+  </h3>
+</div>
 
-### 🛠️ Skills & Tech Arsenal
+<div align="center">
+  <p>
+    I'm Chandan Mishra aka <strong>Terminal Mishra</strong> — a Cybersecurity enthusiast focused on Red Teaming and Offensive Security.Completed B.Tech in Information Technology from LNCT Bhopal. I’ve built simulations using Cisco Packet Tracer, deployed firewalls with pfSense and Snort, and worked on AWS infrastructure with VPCs, EC2, and more.
+  </p>
+</div>
 
-**Networking & Security**  
-- TCP/IP, Subnetting, VLANs, ACLs, NAT, DHCP, DNS  
-- Routing Protocols: OSPF, RIP, Static Routing  
-- Tools: Cisco Packet Tracer, Wireshark, Nmap, pfSense, Snort
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> What I'm Working On
+  </h3>
+</div>
 
-**Cloud & Automation**  
-- AWS: VPC, EC2, S3, Route 53, CloudWatch  
-- IAM roles, NACLs, Security Groups  
-- Scripting: Python, Bash  
-- OS: Linux (Ubuntu, Kali), Windows
+<div>
+  <p>
+    - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Red Teaming Labs & Exploit Writing<br>
+      - 🔹 TryHackMe, HackTheBox, Kali Linux<br>
+      - 🔹 Network Exploits, Enumeration & Post-Exploitation<br>
+      - 🔹 IDS/Firewall Testing, AV Evasion Techniques<br>
 
-**Dev Tools**  
-- Git & GitHub, VS Code, VirtualBox  
-- Network Simulation, Firewall Configurations
-
----
-
-### 🧪 Projects
-
-🔧 **Enterprise Network Simulation**  
-Designed & simulated a multi-layer enterprise network using VLAN segmentation and OSPF in Cisco Packet Tracer.
-
-🛡️ **Firewall & IDS Setup**  
-Deployed `pfSense` firewall and integrated `Snort IDS` with `Wireshark` for real-time traffic analysis and threat detection.
-
-💻 **Cloud Infra on AWS**  
-Configured AWS VPC, EC2, Route 53 for networking — monitored performance with CloudWatch and scripted automation.
-
----
-
-### 🏆 Certifications
-
-- 🟢 [Cisco Certified Networking Essentials](https://www.credly.com/badges/40fac855-d3ee-4c2e-991e-df837b2165b6/public_url)  
-- 🟡 [AWS Cloud Architecting - Virtual Internship](https://www.credly.com/badges/40fc2cc3-4748-4513-ad2a-0d60328d16e9/public_url)
+ </p>
+ </div>
 
 ---
 
-### 🌐 Connect with Me
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chandan-mishra-b2110a247/)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/Chandan-code16)  
-📧 er.chandanmishra03@gmail.com  
-📍 Bhopal, India
+<div align="center">
+  
+  ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+</div>
 
 ---
 
-> 💭 “The quieter you become, the more you can hear.” — Wisdom from the Red Team Side ⚔️
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> Connect with Me
+</h1>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/chandan-mishra-b2110a247/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:er.chandanmishra03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://github.com/Chandan-code16">
+    <img src="https://img.shields.io/badge/GitHub-grey?style=flat&logo=github" />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=terminalmishra&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalmishra&layout=compact&theme=tokyonight)
+<p align="center">
+  <em>"The quieter you become, the more you can hear." – Kali Linux wisdom</em>
+</p>
