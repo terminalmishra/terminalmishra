@@ -78,3 +78,51 @@
 <p align="center">
   <em>"The quieter you become, the more you can hear." – Kali Linux wisdom</em>
 </p>
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/chandan-mishra-b2110a247/" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />
+  </a>
+
+  <a href="https://github.com/Chandan-code16" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+  </a>
+
+  <a href="mailto:er.chandanmishra03@gmail.com" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" />
+  </a>
+
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" />
+  </a>
+
+  <a href="https://www.discord.com/" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />
+  </a>
+
+  <a href="https://instagram.com/" target="blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" />
+  </a>
+</div>
+
+###
+
+<br><div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=999&color=FF3131&background=FFC57100&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Terminal+Mishra+on+GitHub+%F0%9F%9A%80)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=terminalmishra&data=followers,repositories,stars,commits&theme=radical)](https://github.com/Jurredr/github-widgetbox)
+</div>
+
+<div align="center">
+
+  ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=terminalmishra&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=terminalmishra)](https://github.com/LordDashMe/github-contribution-stats/)
+</div>
+
+###
+
